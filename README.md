@@ -2,6 +2,7 @@
 
 This repository contains the final version of our Machine Learning project for **ESILV – A4 Engineering (MMN)**.  
 The goal is to build a predictive maintenance model capable of estimating the **Remaining Useful Life (RUL)** of turbofan engines using multivariate time-series sensor data.
+Team contribution : Tristan 80 / Bruna 10 / Godeffroy 10
 
 ---
 
